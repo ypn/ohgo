@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="#45252b33"
+    android:paddingBottom="100dp"
+    android:paddingTop="100dp"
+    android:paddingRight="20dp"
+    android:paddingLeft="20dp"
+
+   >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="17sp"
+        android:text = "Check Your Email"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:padding="16dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/send_email_instruction"
+        android:textAlignment="center"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textColor="#fff"
+        />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/check_email"
+        android:paddingTop="20dp"
+        android:paddingBottom="40dp"
+        />
+    <Button
+        style="@style/button_white"
+        android:id="@+id/btn_send_user_email"
+        android:text="@string/btn_continue"
+        />
+</LinearLayout>

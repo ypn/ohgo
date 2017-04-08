@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="crop__saving">Saving picture…</string>
+    <string name="crop__wait">Please wait…</string>
+    <string name="crop__pick_error">No image sources available</string>
+
+    <string name="crop__done">DONE</string>
+    <string name="crop__cancel" tools:ignore="ButtonCase">CANCEL</string>
+
+    <string name="warning">Warning</string>
+
+    <string name="large_image">The resolution of your image selected area is too high, hence the system is unable to process accurately. Please zoom in the image and crop a smaller area.</string>
+
+</resources>

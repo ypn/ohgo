@@ -1,0 +1,18 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=71:E9:2D:CD:1D:C5:0C:82:5C:6F:F0:A5:86:6E:4C:F3:9B:28:07:1A%3Bandroid.vptech.smarttraffic.main
+
+    You can also add your credentials to an existing key, using this line:
+    71:E9:2D:CD:1D:C5:0C:82:5C:6F:F0:A5:86:6E:4C:F3:9B:28:07:1A;android.vptech.smarttraffic.main
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+</resources>

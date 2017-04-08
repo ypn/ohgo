@@ -1,0 +1,200 @@
+<resources>
+    <!--TODO: General -->
+    <string name="app_name">Ohgo</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="drawer_open">open drawer</string>
+    <string name="drawer_close">open drawer</string>
+    <string name="location_not_found">Location not found</string>
+    <string name="route_not_found">Route not found</string>
+    <string name="send">Send</string>
+    <string name="save">Save</string>
+    <string name="title_select_langs">Select Languages</string>
+    <!-- End -->
+
+    <!-- TODO: User license -->
+    <string name="title_license">Privacy Policy</string>
+    <string name="btn_next">Next</string>
+    <!-- End -->
+
+    <!--TODO: Select language-->
+    <!-- End -->
+
+    <!--TODO: Drawer navigation-->
+    <string name="menu_item_home">Home</string>
+    <string name="menu_item_work">Work</string>
+    <string name="menu_item_favorite">Favorite</string>
+    <string name="menu_item_settings">Settings</string>
+    <string name="log_out">Log Out</string>
+    <!-- End -->
+
+    <!--TODO: Buttons report -->
+    <string name="report_police">Boss</string>
+    <string name="report_traffic_jam">Traffic Jam</string>
+    <string name="report_accident">Accident</string>
+    <string name="report_camera">Camera</string>
+    <!-- End -->
+
+    <!--TODO: Form register -->
+    <string name="reg_entry_email">Email</string>
+    <string name="reg_hint_first_name">Full Name</string>
+    <string name="reg_hint_password">Password</string>
+    <string name="reg_hint_confirm_pass">Confirm Password</string>
+
+    <string name="null_first_name">Entry your full name</string>
+    <string name="pass_not_match">Confirm password not match</string>
+    <string name="pattern_password">Your password must have at least 6 characters.</string>
+
+    <string name="phone_exist">Your email you entry was existed</string>
+    <string name="reg_error">Your information you entry invalid. Check and try again</string>
+    <string name="check_network">Check your network connection.</string>
+    <string name="sign_up_success">Sign up successfully. Tab sign in and start to use app.</string>
+    <!-- End -->
+
+    <!--TODO: Form sign in -->
+    <string name="btn_sign_in">Sign In</string>
+    <string name="btn_register">Create</string>
+    <string name="tab_sign_up">Sign Up</string>
+    <string name="sign_in_password">Entry your password</string>
+    <string name="sign_in_failure">Your usename or password invalid</string>
+    <string name="forgot_password">Forgot Password</string>
+    <!-- End -->
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_report_police">Boss</string>
+    <string name="title_activity_report_cam">Camera</string>
+    <string name="title_activity_report_trafic">Traffic Jam</string>
+    <string name="title_activity_report_accident">Accident</string>
+
+    <!-- TODO: Reporter -->
+    <string name="error_null_state">Choose state of report</string>
+    <string name="error_null_location">Cannot request your location.Choose location of report</string>
+
+    <string name="report_state_police_hide">Hide</string>
+    <string name="report_state_police_visible">Visible</string>
+    <string name="report_state_police_other_side">Other</string>
+
+    <string name="report_state_traffic_moderate">Traffic Moderate</string>
+    <string name="report_state_traffic_heavy">Traffic Heavy</string>
+    <string name="report_state_traffic_standtill">Traffic Standtill</string>
+
+    <string name="report_state_accident_mirror">Accident Mirror</string>
+    <string name="report_state_accident_major">Accident Major</string>
+    <string name="report_state_accident_other_side">Other</string>
+
+    <string name="report_state_camera_speed">Camera Speed</string>
+    <string name="report_state_camera_red_light">Red Light</string>
+    <string name="report_state_camera_fake">Camera Fake</string>
+
+    <string name="report_state_unknow">Unknow State</string>
+    <string name="report_select_location">Select Location</string>
+    <string name="report_write_content">Write Content</string>
+    <string name="report_take_photo">Take a photo</string>
+
+    <!-- End -->
+
+    <!-- TODO:Reprort detail -->
+    <string name="report_at">Report at: </string>
+
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_add_friends_to_messages">Language</string>
+    <string-array name="pref_example_list_titles">
+        <item>English</item>
+        <item>Vietnamese</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>ENG</item>
+        <item>VI</item>
+    </string-array>
+
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <!-- End -->
+
+
+    <string name="not_ready">Not Ready</string>
+    <string name="tap_to_add">Tap to add</string>
+
+    <!-- TODO:FORGOT PASSWORD -->
+    <string name="text_enter_email">Enter your email and we will get you back on track.</string>
+    <string name="home_work">Home \u0026 Work</string>
+    <string name="email_invalid">Email format invalid.</string>
+    <string name="must_entry_email">You must entry your email.</string>
+    <string name="email_not_available">Email address not available.</string>
+    <string name="cannot_contact_admin">Cannot contact with admin.</string>
+    <string name="cannot_connect_server">Not response from server.Sorry for inconvenience</string>
+    <string name="must_entry_code">You must entry code we send to email.</string>
+    <string name="code_not_exist">Code not exist.</string>
+    <string name="email_out_of_date">Code out of date.</string>
+    <string name="des_enter_email_code">Enter your email and code to reset your password.</string>
+    <string name="send_email_instruction">We sent you an email with instructions for resetting your password.</string>
+    <string name="btn_continue">Continue</string>
+    <string name="settup_daily_place">Set your daily route to get notified about traffic status.</string>
+    <string name="thank_for_report">Thanks for your contribute, Your report will save many people :)</string>
+
+    <string name="send_report_dialog">Send report</string>
+
+    <string name="waiting">Please wait...</string>
+
+    <string name="pos_reported">This position has been reported. Are you want to select other.</string>
+    
+    <string name="logout_title">Log out</string>
+    <string name="logout_message">Are you sure to logout</string>
+
+    <string name="add_place_title">Add your place</string>
+
+    <string name="range_receive_notice">Range receive notification</string>
+
+    <string name="require_location">Cannot require your locaiton. Please turn on your location and restart app. Sorry for this inconvenience.</string>
+
+    <string name="congratulation">Congratulation</string>
+    <string name="password_reset_success">Your Password reset successfully</string>
+    <string name="login_new_pass">Login with new password</string>
+
+    
+    <!--TODO:NOTIFICATION STATE -->
+    <string name="notice_police_hide">Boss hide</string>
+    <string name="notice_police_show">Boss show</string>
+    <string name="notice_police_other">Boss unknown state</string>
+
+    <string name="notice_traffic_moderate">Traffic moderate</string>
+    <string name="notice_traffic_heavy">Traffic heavy</string>
+    <string name="notice_traffic_standstil">Traffic standstil</string>
+
+    <string name="notice_accident_mirror">Accident mirror</string>
+    <string name="notice_accident_major">Accident major</string>
+    <string name="notice_accident_other">Accident unknown state</string>
+
+    <string name="notice_camera_speed">Camera speed</string>
+    <string name="notice_camera_red_light">Camera red light</string>
+    <string name="notice_camera_fake">Camera fake</string>
+
+    <string name="add_after">After</string>
+    <string name="add_place_message">You don\'t setup your daily place. Are you want to add now for quick access?</string>
+    <string name="click_again_to_exist">Press once again to exit!</string>
+
+    <string name="send_email_dialog">Send email</string>
+    <string name="write_comment">Write something...</string>
+    <string name="dislike_report">You dislike this report.</string>
+    <string name="remove_dislike_report">You removed dislike this report.</string>
+    <string name ="like_report">You like this report.</string>
+    <string name="remove_like_report">You removed like this report.</string>
+    <string name="save_change">Save change</string>
+    <string name="config_change">Your setting will update after restart app</string>
+
+</resources>
+
+

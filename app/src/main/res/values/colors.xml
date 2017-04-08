@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#fff</color>
+    <color name="color_action_bar">#252b33</color>
+    <color name="divider_recyclerview">#46ffffff</color>
+    <color name="main_color">#323a45</color>
+    <color name="name_user_comment">#cc323a45</color>
+    <color name="content_comment">#99323a45</color>
+</resources>

@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "289675720885",
+    "project_id": "ohgo-609a6"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289675720885:android:7df4a539dd8658b5",
+        "android_client_info": {
+          "package_name": "ohgo.vptech.smarttraffic.main"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpSJJn42JWKuEP6ymG5xZxSHGDNDKgEP8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-86724822-3"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

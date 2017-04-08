@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="corner_button_select_langs">20dp</dimen>
+    <dimen name="button_height">40dp</dimen>
+    <dimen name="icon_like">28dp</dimen>
+    <dimen name="count_like">17sp</dimen>
+    <dimen name="avatar">60dp</dimen>
+    <dimen name="menu_icon">24dp</dimen>
+
+    <!--TODO:report state -->
+
+    <dimen name="background_space">20dp</dimen>
+    <dimen name="check_space_ver">20dp</dimen>
+</resources>

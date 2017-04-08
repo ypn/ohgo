@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ohgo.vptech.smarttraffic.main">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/ic_launcher"
+        android:name=".cores.AnalyticsApplication"
+        android:label="@string/app_name"
+        android:supportsRtl="true">
+        <!-- android:theme="@style/AppTheme" -->
+        <activity
+            android:name="com.soundcloud.android.crop.CropImageActivity"
+            android:theme="@style/CustomTheme" />
+        <activity
+            android:name="ohgo.vptech.smarttraffic.main.MainActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:noHistory="true"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyDr0_zmr-BCRK3NVoOtuSuRLYSM2Wb_fos" />
+
+        <activity
+            android:name="ohgo.vptech.smarttraffic.main.MapsActivity"
+            android:label="@string/title_activity_maps"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:windowContentTransitions="true" />
+        <activity
+            android:name="ohgo.vptech.smarttraffic.main.SelectLanguageActivity"
+            android:theme="@style/Theme.AppCompat.Light" />
+        <activity
+            android:name="ohgo.vptech.smarttraffic.main.LicenseActivity"
+            android:label="Privacy Policy"
+            android:theme="@style/Theme.AppCompat.Light" />
+        <activity
+            android:name="ohgo.vptech.smarttraffic.main.reporter.ReportPoliceActivity"
+            android:label="@string/title_activity_report_police"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <!--
+        ATTENTION: This was auto-generated to add Google Play services to your project for
+        App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="ohgo.vptech.smarttraffic.main.reporter.CommentBoxActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        />
+        <activity
+            android:name="ohgo.vptech.smarttraffic.main.SignInUpActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+            >
+        </activity>
+
+        <receiver android:name="ohgo.vptech.smarttraffic.main.cores.LocaleChange">
+            <intent-filter>
+                <action android:name="android.intent.action.LOCALE_CHANGED" />
+            </intent-filter>
+        </receiver>
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="ohgo.vptech.smarttraffic.main"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_path" />
+        </provider>
+
+        <activity
+            android:name="ohgo.vptech.smarttraffic.main.reporter.ReportDetailActivity"
+            android:theme="@style/Theme.MyTheme" >
+
+        </activity>
+        <activity
+            android:name="ohgo.vptech.smarttraffic.main.SettingProfile"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:windowContentTransitions="true" />
+        <activity
+            android:name="ohgo.vptech.smarttraffic.main.SettingsActivity"
+            android:label="@string/title_activity_settings"
+            android:theme="@style/Theme.AppCompat.Light" />
+
+        <service
+            android:name=".modules.background.BackgroundService"
+            android:enabled="true"
+            android:exported="false"
+            android:process=":remote" />
+
+
+        <service android:name=".modules.jobscheduler.JobServiceBackground"
+            android:permission="android.permission.BIND_JOB_SERVICE"
+            />
+
+        <receiver
+            android:name="ohgo.vptech.smarttraffic.main.reporter.BootBroadcastReceiver"
+            android:enabled="true"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <activity
+            android:name="ohgo.vptech.smarttraffic.main.SettingPlaceActivity"
+            android:parentActivityName="ohgo.vptech.smarttraffic.main.MapsActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="ohgo.vptech.smarttraffic.main.forgotpass.ForgotPasswordActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity android:name="ohgo.vptech.smarttraffic.main.forgotpass.SendCodeActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            />
+    </application>
+
+</manifest>

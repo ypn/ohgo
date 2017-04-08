@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ypn/Desktop/vptech project/android/F:\\Projects\\AppTraffic\\app\\libraries\\SoundCloudCropImage\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\crop__layout_done_cancel.xml",
+        "source": "/home/ypn/Desktop/vptech project/android/F:\\Projects\\AppTraffic\\app\\libraries\\SoundCloudCropImage\\build\\intermediates\\bundles\\debug\\res\\layout\\crop__layout_done_cancel.xml"
+    },
+    {
+        "merged": "/home/ypn/Desktop/vptech project/android/F:\\Projects\\AppTraffic\\app\\libraries\\SoundCloudCropImage\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\crop__activity_crop.xml",
+        "source": "/home/ypn/Desktop/vptech project/android/F:\\Projects\\AppTraffic\\app\\libraries\\SoundCloudCropImage\\build\\intermediates\\bundles\\debug\\res\\layout\\crop__activity_crop.xml"
+    },
+    {
+        "merged": "/home/ypn/Desktop/vptech project/android/app/libraries/SoundCloudCropImage/build/intermediates/res/merged/androidTest/debug/layout/crop__layout_done_cancel.xml",
+        "source": "/home/ypn/Desktop/vptech project/android/app/libraries/SoundCloudCropImage/build/intermediates/bundles/debug/res/layout/crop__layout_done_cancel.xml"
+    },
+    {
+        "merged": "/home/ypn/Desktop/vptech project/android/app/libraries/SoundCloudCropImage/build/intermediates/res/merged/androidTest/debug/layout/crop__activity_crop.xml",
+        "source": "/home/ypn/Desktop/vptech project/android/app/libraries/SoundCloudCropImage/build/intermediates/bundles/debug/res/layout/crop__activity_crop.xml"
+    }
+]

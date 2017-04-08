@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/home/ypn/Desktop/vptech project/android/F:\\Projects\\AppTraffic\\app\\libraries\\SoundCloudCropImage\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/F:\\Projects\\AppTraffic\\app\\libraries\\SoundCloudCropImage\\build\\intermediates\\bundles\\debug\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 47,
+                        "endOffset": 98
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/ypn/Desktop/vptech project/android/app/libraries/SoundCloudCropImage/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-land/values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/app/libraries/SoundCloudCropImage/build/intermediates/bundles/debug/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 47,
+                        "endOffset": 98
+                    }
+                }
+            }
+        ]
+    }
+]

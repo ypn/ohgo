@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="crop__saving">Lưu ảnh…</string>
+    <string name="crop__wait">Vui lòng đợi trong giây nát…</string>
+    <string name="crop__pick_error">Tài nguyên ảnh chưa sẵn sàng.</string>
+
+    <string name="crop__done">DONE</string>
+    <string name="crop__cancel" tools:ignore="ButtonCase">CANCEL</string>
+
+    <string name="warning">Cảnh báo</string>
+
+    <string name="large_image">Vùng chọn ảnh của bạn có độ phân giải quá lớn và hệ thống không thể xử lý chính xác. Vui lòng zoom bức ảnh và chọn 1 vùng nhỏ hơn.</string>
+
+
+</resources>

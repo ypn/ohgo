@@ -1,0 +1,754 @@
+[
+    {
+        "outputFile": "/home/ypn/Desktop/vptech project/android/F:\\Projects\\AppTraffic\\app\\libraries\\SoundCloudCropImage\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 52,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/F:\\Projects\\AppTraffic\\app\\libraries\\SoundCloudCropImage\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 52,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 50,
+                    "endOffset": 199
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/F:\\Projects\\AppTraffic\\app\\libraries\\SoundCloudCropImage\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 50,
+                        "endOffset": 199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 204,
+                    "endColumn": 51,
+                    "endOffset": 251
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/F:\\Projects\\AppTraffic\\app\\libraries\\SoundCloudCropImage\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 204,
+                        "endColumn": 51,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 256,
+                    "endColumn": 58,
+                    "endOffset": 310
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/F:\\Projects\\AppTraffic\\app\\libraries\\SoundCloudCropImage\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 58,
+                        "endOffset": 310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 315,
+                    "endColumn": 58,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/F:\\Projects\\AppTraffic\\app\\libraries\\SoundCloudCropImage\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 315,
+                        "endColumn": 58,
+                        "endOffset": 369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 745,
+                    "endColumn": 47,
+                    "endOffset": 788
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/F:\\Projects\\AppTraffic\\app\\libraries\\SoundCloudCropImage\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 745,
+                        "endColumn": 47,
+                        "endOffset": 788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 793,
+                    "endColumn": 71,
+                    "endOffset": 860
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/F:\\Projects\\AppTraffic\\app\\libraries\\SoundCloudCropImage\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 793,
+                        "endColumn": 71,
+                        "endOffset": 860
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 865,
+                    "endColumn": 43,
+                    "endOffset": 904
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/F:\\Projects\\AppTraffic\\app\\libraries\\SoundCloudCropImage\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 865,
+                        "endColumn": 43,
+                        "endOffset": 904
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 909,
+                    "endColumn": 71,
+                    "endOffset": 976
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/F:\\Projects\\AppTraffic\\app\\libraries\\SoundCloudCropImage\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 909,
+                        "endColumn": 71,
+                        "endOffset": 976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 981,
+                    "endColumn": 56,
+                    "endOffset": 1033
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/F:\\Projects\\AppTraffic\\app\\libraries\\SoundCloudCropImage\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 981,
+                        "endColumn": 56,
+                        "endOffset": 1033
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1038,
+                    "endColumn": 51,
+                    "endOffset": 1085
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/F:\\Projects\\AppTraffic\\app\\libraries\\SoundCloudCropImage\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1038,
+                        "endColumn": 51,
+                        "endOffset": 1085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1090,
+                    "endColumn": 195,
+                    "endOffset": 1281
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/F:\\Projects\\AppTraffic\\app\\libraries\\SoundCloudCropImage\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1090,
+                        "endColumn": 195,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1286,
+                    "endColumn": 43,
+                    "endOffset": 1325
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/F:\\Projects\\AppTraffic\\app\\libraries\\SoundCloudCropImage\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 43,
+                        "endOffset": 1325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1330,
+                    "endColumn": 24,
+                    "endOffset": 1350
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/F:\\Projects\\AppTraffic\\app\\libraries\\SoundCloudCropImage\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1330,
+                        "endColumn": 24,
+                        "endOffset": 1350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1355,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1653
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/F:\\Projects\\AppTraffic\\app\\libraries\\SoundCloudCropImage\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1355,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1658,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 2263
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/F:\\Projects\\AppTraffic\\app\\libraries\\SoundCloudCropImage\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1658,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 2263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2268,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 2461
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/F:\\Projects\\AppTraffic\\app\\libraries\\SoundCloudCropImage\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2268,
+                        "endLine": 41,
+                        "endColumn": 12,
+                        "endOffset": 2461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2466,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 2653
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/F:\\Projects\\AppTraffic\\app\\libraries\\SoundCloudCropImage\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2466,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 2653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2658,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 3190
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/F:\\Projects\\AppTraffic\\app\\libraries\\SoundCloudCropImage\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2658,
+                        "endLine": 54,
+                        "endColumn": 12,
+                        "endOffset": 3190
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/ypn/Desktop/vptech project/android/app/libraries/SoundCloudCropImage/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 52,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/app/libraries/SoundCloudCropImage/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 52,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 50,
+                    "endOffset": 199
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/app/libraries/SoundCloudCropImage/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 50,
+                        "endOffset": 199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 204,
+                    "endColumn": 51,
+                    "endOffset": 251
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/app/libraries/SoundCloudCropImage/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 204,
+                        "endColumn": 51,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 256,
+                    "endColumn": 58,
+                    "endOffset": 310
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/app/libraries/SoundCloudCropImage/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 58,
+                        "endOffset": 310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 315,
+                    "endColumn": 58,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/app/libraries/SoundCloudCropImage/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 315,
+                        "endColumn": 58,
+                        "endOffset": 369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 745,
+                    "endColumn": 47,
+                    "endOffset": 788
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/app/libraries/SoundCloudCropImage/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 745,
+                        "endColumn": 47,
+                        "endOffset": 788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 793,
+                    "endColumn": 71,
+                    "endOffset": 860
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/app/libraries/SoundCloudCropImage/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 793,
+                        "endColumn": 71,
+                        "endOffset": 860
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 865,
+                    "endColumn": 43,
+                    "endOffset": 904
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/app/libraries/SoundCloudCropImage/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 865,
+                        "endColumn": 43,
+                        "endOffset": 904
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 909,
+                    "endColumn": 71,
+                    "endOffset": 976
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/app/libraries/SoundCloudCropImage/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 909,
+                        "endColumn": 71,
+                        "endOffset": 976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 981,
+                    "endColumn": 56,
+                    "endOffset": 1033
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/app/libraries/SoundCloudCropImage/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 981,
+                        "endColumn": 56,
+                        "endOffset": 1033
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1038,
+                    "endColumn": 51,
+                    "endOffset": 1085
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/app/libraries/SoundCloudCropImage/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1038,
+                        "endColumn": 51,
+                        "endOffset": 1085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1090,
+                    "endColumn": 195,
+                    "endOffset": 1281
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/app/libraries/SoundCloudCropImage/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1090,
+                        "endColumn": 195,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1286,
+                    "endColumn": 43,
+                    "endOffset": 1325
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/app/libraries/SoundCloudCropImage/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 43,
+                        "endOffset": 1325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1330,
+                    "endColumn": 24,
+                    "endOffset": 1350
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/app/libraries/SoundCloudCropImage/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1330,
+                        "endColumn": 24,
+                        "endOffset": 1350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1355,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1653
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/app/libraries/SoundCloudCropImage/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1355,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1658,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 2263
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/app/libraries/SoundCloudCropImage/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1658,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 2263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2268,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 2461
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/app/libraries/SoundCloudCropImage/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2268,
+                        "endLine": 41,
+                        "endColumn": 12,
+                        "endOffset": 2461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2466,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 2653
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/app/libraries/SoundCloudCropImage/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2466,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 2653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2658,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 3190
+                },
+                "from": {
+                    "file": "/home/ypn/Desktop/vptech project/android/app/libraries/SoundCloudCropImage/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2658,
+                        "endLine": 54,
+                        "endColumn": 12,
+                        "endOffset": 3190
+                    }
+                }
+            }
+        ]
+    }
+]

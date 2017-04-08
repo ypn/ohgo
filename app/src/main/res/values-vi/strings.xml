@@ -1,0 +1,200 @@
+<resources>
+    <!--TODO: General -->
+    <string name="app_name">Ohgo</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="drawer_open">open drawer</string>
+    <string name="drawer_close">open drawer</string>
+    <string name="location_not_found">Không tìm thấy địa điểm</string>
+    <string name="route_not_found">Không tìm thấy tuyến đường</string>
+    <string name="send">Gửi</string>
+    <string name="save">Lưu</string>
+    <string name ="title_select_langs">Lựa chọn ngôn ngữ</string>
+
+    <!-- End -->
+    <string name="title_license">Điều Khoản Sử Dụng</string>
+    <string name="btn_next">Tiếp tục</string>
+
+    <!--TODO: Select language-->
+    <!-- End -->
+
+    <!--TODO: Drawer navigation-->
+    <string name="menu_item_home">Nhà</string>
+    <string name="menu_item_work">Công ty</string>
+    <string name="menu_item_favorite">Địa điểm ưa thích</string>
+    <string name="menu_item_settings">Cài đặt</string>
+    <string name="log_out">Đăng Xuất</string>
+    <!-- End -->
+
+    <!--TODO: Buttons report -->
+    <string name="report_police">Boss</string>
+    <string name="report_traffic_jam">Tắc đường</string>
+    <string name="report_accident">Tai nạn</string>
+    <string name="report_camera">Camera</string>
+    <!-- End -->
+
+    <!--TODO: Form register -->
+    <string name="reg_entry_email">Email</string>
+
+    <string name="reg_hint_first_name">Họ Tên</string>
+
+    <string name="reg_hint_password">Mật Khẩu</string>
+    <string name="reg_hint_confirm_pass">Xác nhận mật khẩu</string>
+
+    <string name="null_first_name">Nhập họ tên của bạn</string>
+    <string name="pass_not_match">Xác nhận mật khẩu không đúng</string>
+    <string name="pattern_password">Mật khẩu cần có it nhất 6 kí tự.</string>
+
+    <string name="phone_exist">Địa chỉ email bạn cung cấp đã được sử dụng.</string>
+    <string name="reg_error">Thông tin bạn sử dụng chưa đúng, vui lòng kiểm tra và thử lại.</string>
+    <string name="check_network">Kiểm tra lại kết nối mạng của bạn.</string>
+    <string name="sign_up_success">Đăng kí thành công. Cảm ơn bạn đã tham gia với chúng tôi. Chuyển sang đăng nhập và bắt đầu sử dụng ứng dụng.</string>
+
+    <!-- End -->
+
+    <!-- TODO:  Form sign in -->
+    <string name="btn_sign_in">Đăng nhập</string>
+    <string name="btn_register">Đăng kí</string>
+    <string name="tab_sign_up">Đăng kí</string>
+    <string name="sign_in_password">Nhập mật khẩu để đăng nhập.</string>
+    <string name="sign_in_failure">Số điện thoại hoặc mật khẩu không đúng. Nếu bạn chưa có tài khoản, vui lòng đăng kí trước.</string>
+    <string name="forgot_password">Quên Mật Khẩu</string>
+    <!-- End -->
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_report_police">Boss</string>
+    <string name="title_activity_report_cam">Camera</string>
+    <string name="title_activity_report_trafic">Tắc đường</string>
+    <string name="title_activity_report_accident">Tai nạn</string>
+
+    <!-- TODO: Reporter -->
+    <string name="error_null_state">Bạn chưa chọn trạng thái của đối tượng.</string>
+    <string name="error_null_location">Không thể truy cập vị trí hiện tại của bạn.Hãy chọn vị trí để báo cáo.</string>
+
+    <string name = "report_state_police_hide">Đang núp</string>
+    <string name = "report_state_police_visible">Đang đứng</string>
+    <string name = "report_state_police_other_side">Chưa rõ</string>
+
+    <string name = "report_state_traffic_moderate">Tắc đường nhẹ</string>
+    <string name = "report_state_traffic_heavy">Tắc đường vừa</string>
+    <string name = "report_state_traffic_standtill">Nghiêm trọng</string>
+
+    <string name = "report_state_accident_mirror">Tai nạn nhẹ</string>
+    <string name = "report_state_accident_major">Nghiêm trọng</string>
+    <string name = "report_state_accident_other_side">Chưa rõ</string>
+
+    <string name = "report_state_camera_speed">Camera tốc độ</string>
+    <string name = "report_state_camera_red_light">Camera đèn đỏ</string>
+    <string name = "report_state_camera_fake">Camera giả</string>
+
+    <string name = "report_state_unknow">Trạng thái chưa xác định</string>
+    <string name ="report_select_location">Chọn vị trí</string>
+    <string name ="report_write_content">Thêm mô tả</string>
+    <string name ="report_take_photo">Chụp ảnh</string>
+
+    <!-- End -->
+
+    <!-- TODO:Reprort detail -->
+    <string name="report_at">Báo cáo lúc: </string>
+    <!-- End -->
+
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">Thiết đặt chung</string>
+
+    <string name="pref_title_add_friends_to_messages">Ngôn ngữ</string>
+    <string-array name="pref_example_list_titles">
+        <item>Tiếng Anh</item>
+        <item>Tiếng Việt</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>ENG</item>
+        <item>VI</item>
+    </string-array>
+
+
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Thông báo</string>
+
+    <string name="pref_title_new_message_notifications">Nhận thông báo mới</string>
+
+    <string name="pref_title_ringtone">Nhạc chuông</string>
+    <string name="pref_ringtone_silent">Im lặng</string>
+
+    <string name="pref_title_vibrate">Rung</string>
+    <!-- End -->
+
+    <string name="not_ready">Chưa sẵn sàng</string>
+    <string name="tap_to_add">Thêm cài đặt</string>
+
+    <!-- TODO:FORGOT PASSWORD -->
+    <string name="text_enter_email">Chúng tôi sẽ gửi mã code tới email bạn đăng ký. Kiểm tra email để tiếp tục.</string>
+    <string name="home_work">Home \u0026 Work</string>
+    <string name="email_invalid">Định dạng email chưa đúng.</string>
+    <string name="must_entry_email">Bạn cần nhập địa chỉ email.</string>
+    <string name="email_not_available">Địa chỉ email không tồn tại.</string>
+    <string name="cannot_contact_admin">Không thể liên lạc với ban quản trị.</string>
+    <string name="cannot_connect_server">Không nhận được phản hồi từ máy chủ. Xin lỗi vì sự bất tiện này.</string>
+    <string name="must_entry_code">Vui lòng nhập mã code bạn nhận được trong email.</string>
+    <string name="code_not_exist">Mã code không tồn tại. Vui lòng gửi lại email.</string>
+    <string name="email_out_of_date">Mã code này đã hết hạn. Vui long gửi lại email</string>
+    <string name="des_enter_email_code">Nhập địa chỉ email và password để đổi mật khẩu.</string>
+    <string name="send_email_instruction">Chúng tôi sẽ gửi email cho bạn với hướng dẫn thay đổi mật khẩu.</string>
+    <string name="btn_continue">Tiếp tục</string>
+    <string name="settup_daily_place">Cài đặt những địa điểm bạn thường hay tới trong ngày để dễ dàng kiểm tra hơn.</string>
+    <string name="thank_for_report">Cảm ơn đóng góp của bạn vì cộng đồng. Nỗ lực của bạn sẽ giúp rất nhiều người :)</string>
+
+    <string name="send_report_dialog">Gửi báo cáo</string>
+
+    <string name="waiting">Đợi chút nha...</string>
+
+    <string name="pos_reported">Vị trí này đã có người báo cáo. Bạn nên chọn  vị trí khác.</string>
+
+    <string name="logout_title">Đăng xuất</string>
+    <string name="logout_message">Bạn có chắc muốn thoát ứng dụng.</string>
+
+    <string name="add_place_title">Thêm địa điểm</string>
+    <string name="range_receive_notice">Phạm vi nhận thông báo</string>
+
+    <string name="require_location">Hệ thống không thể truy cập vị trí của bạn.Hãy chắc rằng bạn đã cho phép truy cập vị trí. Khởi động lại ứng dụng để xác nhận quá trình. Xin lỗi vì sự bất tiện này.</string>
+    <string name="congratulation">Xin chúc mừng</string>
+    <string name="password_reset_success">Mật khẩu của bạn thay đổi thành công.</string>
+    <string name="login_new_pass">Đăng nhập bằng mật khẩu mới</string>
+
+
+    <!--TODO:NOTIFICATION STATE -->
+    <string name="notice_police_hide">Boss đang núp</string>
+    <string name="notice_police_show">Boss đang đứng</string>
+    <string name="notice_police_other">Boss chưa rõ trạng thái</string>
+
+    <string name="notice_traffic_moderate">Tắc đường nhẹ</string>
+    <string name="notice_traffic_heavy">Tắc đường lưu thông chậm</string>
+    <string name="notice_traffic_standstil">Tắc đường không thể di chuyển</string>
+
+    <string name="notice_accident_mirror">Tai nạn nhẹ</string>
+    <string name="notice_accident_major">Tai nạn nghiêm trọng</string>
+    <string name="notice_accident_other">Tai nạn chưa rõ tình hình</string>
+
+    <string name="notice_camera_speed">Camera bắn tốc độ</string>
+    <string name="notice_camera_red_light">Camera bắt vượt đèn đỏ</string>
+    <string name="notice_camera_fake">Camera giả</string>
+
+    <string name="add_after">Thêm sau</string>
+    <string name="add_place_message">Bạn vẫn chưa cài đặt vị trí cho địa điểm này. Bạn có muốn thêm ngay để dễ dàng truy cập hơn?</string>
+    <string name="click_again_to_exist">Click lần nữa để thoát ứng dụng.</string>
+
+    <string name="send_email_dialog">Gửi email</string>
+
+    <string name="write_comment">Thêm bình luận...</string>
+    <string name="dislike_report">Không thích báo cáo </string>
+    <string name="remove_dislike_report">Bỏ không thích báo cáo</string>
+    <string name ="like_report">Thích báo cáo.</string>
+    <string name="remove_like_report">Bỏ thích báo cáo</string>
+    <string name="save_change">Đã cập nhật thay đổi</string>
+    <string name="config_change">Thiết đặt của bạn sẽ được cập nhật sau khi khởi động lại.</string>
+</resources>
+
+

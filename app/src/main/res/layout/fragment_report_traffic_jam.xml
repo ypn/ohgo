@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:id="@+id/rd_report_state"
+        >
+        <RadioButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/rd_visible"
+            android:button="@null"
+            android:background="@drawable/radio_traffic_jam_moderate"
+            android:text="@string/report_state_traffic_moderate"
+            android:layout_marginTop="70dp"
+            android:textColor="@color/name_user_comment"
+            android:gravity="center_horizontal|bottom"
+            />
+        <RadioButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:textColor="@color/name_user_comment"
+            android:background="@drawable/radio_traffic_jam_heavy"
+            android:id="@+id/rd_hide"
+            android:text="@string/report_state_traffic_heavy"
+            android:gravity="center_horizontal|bottom"
+            />
+
+        <RadioButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:textColor="@color/name_user_comment"
+            android:background="@drawable/radio_traffic_jam_standstill"
+            android:id="@+id/rd_otherside"
+            android:text="@string/report_state_traffic_standtill"
+            android:gravity="center_horizontal|bottom"
+            />
+    </RadioGroup>
+</FrameLayout>
